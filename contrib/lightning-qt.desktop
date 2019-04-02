@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LC
+Comment=LC P2P Cryptocurrency
+Comment[fr]=LC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LC, eşten eşe kriptografik sanal para birimi
+Exec=lightning-qt %u
+Terminal=false
+Type=Application
+Icon=lightning128
+MimeType=x-scheme-handler/lightning;
+Categories=Office;Finance;

@@ -1,0 +1,2 @@
+usr/local/bin/lightningd usr/bin
+usr/local/bin/lightning-cli usr/bin

@@ -1,0 +1,749 @@
+translation="HÃ¸j" />
+      <value name="Low" translation="Lav" />
+      <value name="Medium" translation="Mellem" />
+      <value name="Poor" translation="DÃ¥rlig" />
+    </setting>
+    <setting name="Texture Detail" translation="Teksturdetaljer">
+      <value name="Extreme" translation="Ekstrem" />
+      <value name="High" translation="HÃ¸j" />
+      <value name="Low" translation="Lav" />
+      <value name="Medium" translation="Mellem" />
+      <value name="Poor" translation="DÃ¥rlig" />
+    </setting>
+    <setting name="Texture Filtering" translation="Teksturfiltrering">
+      <value name="High" translation="HÃ¸j" />
+      <value name="Low" translation="Lav" />
+      <value name="Medium" translation="Mellem" />
+    </setting>
+  </language>
+  <language name="de_DE" translation="">
+    <setting name="Ambient Occlusion" translation="Umgebungsverdeckung">
+      <value name="Disabled" translation="Deaktiviert" />
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+    </setting>
+    <setting name="Clouds Detail" translation="Wolkendetails">
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Display Mode" translation="Anzeigemodus">
+      <value name="Full-screen" translation="Ganzer Bildschirm" />
+      <value name="Windowed" translation="Fenster" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="BlattwerkglÃ¤ttung">
+      <value name="Disabled" translation="Deaktiviert" />
+      <value name="Enabled" translation="Aktiviert" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Hardware-Antialiasing">
+      <value name="Disabled" translation="Deaktiviert" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame-Sample Anti-aliasing">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Object Detail" translation="Objektdetail">
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="Antialiasing-Nachbearbeitung">
+      <value name="Disabled" translation="Deaktiviert" />
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+    </setting>
+    <setting name="Post-process Quality" translation="NachbearbeitungsqualitÃ¤t">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+    </setting>
+    <setting name="Resolution" translation="AuflÃ¶sung" />
+    <setting name="Shadow Detail" translation="Schattendetail">
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Terrain Detail" translation="GelÃ¤ndedetails">
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="GelÃ¤ndeflÃ¤chendetails">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Texture Detail" translation="Texturdetail">
+      <value name="Extreme" translation="Extrem" />
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+      <value name="Poor" translation="Gering" />
+    </setting>
+    <setting name="Texture Filtering" translation="Texturfilterung">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Medium" translation="Mittel" />
+    </setting>
+  </language>
+  <language name="el_GR" translation="">
+    <setting name="Ambient Occlusion" translation="Î ÎµÏÎ¹Î²Î±Î»Î»Î¿Î½Ï„Î¹ÎºÎ® Î­Î¼Ï†ÏÎ±Î¾Î·">
+      <value name="Disabled" translation="Î‘Ï€ÎµÎ½ÎµÏÎ³Î¿Ï€Î¿Î¯Î·ÏƒÎ·" />
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+    </setting>
+    <setting name="Clouds Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± ÏƒÏÎ½Î½ÎµÏ†Î¿Ï…">
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Display Mode" translation="Î›ÎµÎ¹Ï„Î¿Ï…ÏÎ³Î¯Î± Î¿Î¸ÏŒÎ½Î·Ï‚">
+      <value name="Full-screen" translation="Î Î»Î®ÏÎ·Ï‚ Î¿Î¸ÏŒÎ½Î·" />
+      <value name="Windowed" translation="ÎœÎµ Ï€Î±ÏÎ¬Î¸Ï…ÏÎ±" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Î•Î¾Î¿Î¼Î¬Î»Ï…Î½ÏƒÎ· Ï†Ï…Î»Î»Ï‰Î¼Î¬Ï„Ï‰Î½">
+      <value name="Disabled" translation="Î‘Ï€ÎµÎ½ÎµÏÎ³Î¿Ï€Î¿Î¹Î·Î¼Î­Î½Î·" />
+      <value name="Enabled" translation="Î•Î½ÎµÏÎ³Î¿Ï€Î¿Î¹Î·Î¼Î­Î½Î·" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Î•Î¾Î¿Î¼Î¬Î»Ï…Î½ÏƒÎ· Î¿ÏÎ¯Ï‰Î½ Ï…Î»Î¹ÏƒÎ¼Î¹ÎºÎ¿Ï">
+      <value name="Disabled" translation="Î‘Ï€ÎµÎ½ÎµÏÎ³Î¿Ï€Î¿Î¹Î·Î¼Î­Î½Î·" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Î•Î¾Î¿Î¼Î¬Î»Ï…Î½ÏƒÎ· Î¿ÏÎ¯Ï‰Î½ Ï€Î¿Î»Î»Î±Ï€Î»ÏŽÎ½ ÎºÎ±ÏÎ­ Î¼Îµ Î´ÎµÎ¹Î³Î¼Î±Ï„Î¿Î»Î·ÏˆÎ¯Î± NVIDIA">
+      <value name="Off" translation="Î‘Î½ÎµÎ½ÎµÏÎ³Î®" />
+      <value name="On" translation="Î•Î½ÎµÏÎ³Î®" />
+    </setting>
+    <setting name="Object Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± Î±Î½Ï„Î¹ÎºÎµÎ¹Î¼Î­Î½Î¿Ï…">
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="ÎœÎµÏ„ÎµÏ€ÎµÎ¾ÎµÏÎ³Î±ÏƒÏ„Î¹ÎºÎ® ÎµÎ¾Î¿Î¼Î¬Î»Ï…Î½ÏƒÎ· Î¿ÏÎ¯Ï‰Î½">
+      <value name="Disabled" translation="Î‘Ï€ÎµÎ½ÎµÏÎ³Î¿Ï€Î¿Î¯Î·ÏƒÎ·" />
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+    </setting>
+    <setting name="Post-process Quality" translation="ÎœÎµÏ„ÎµÏ€ÎµÎ¾ÎµÏÎ³Î±ÏƒÏ„Î¹ÎºÎ® Ï€Î¿Î¹ÏŒÏ„Î·Ï„Î±">
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+    </setting>
+    <setting name="Resolution" translation="Î‘Î½Î¬Î»Ï…ÏƒÎ·" />
+    <setting name="Shadow Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± ÏƒÎºÎ¹Î¬Ï‚">
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Terrain Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± ÎµÎ´Î¬Ï†Î¿Ï…Ï‚">
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± ÎµÏ€Î¹Ï†Î¬Î½ÎµÎ¹Î±Ï‚ ÎµÎ´Î¬Ï†Î¿Ï…Ï‚">
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Texture Detail" translation="Î›ÎµÏ€Ï„Î¿Î¼Î­ÏÎµÎ¹Î± Ï…Ï†Î®Ï‚">
+      <value name="Extreme" translation="Î‘ÎºÏÎ±Î¯Î±" />
+      <value name="High" translation="Î¥ÏˆÎ·Î»Î®" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»Î®" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î±" />
+      <value name="Poor" translation="Î‘Î½ÎµÏ€Î±ÏÎºÎ®Ï‚" />
+    </setting>
+    <setting name="Texture Filtering" translation="Î¦Î¹Î»Ï„ÏÎ¬ÏÎ¹ÏƒÎ¼Î± Ï…Ï†Î®Ï‚">
+      <value name="High" translation="Î¥ÏˆÎ·Î»ÏŒ" />
+      <value name="Low" translation="Î§Î±Î¼Î·Î»ÏŒ" />
+      <value name="Medium" translation="ÎœÎµÏƒÎ±Î¯Î¿" />
+    </setting>
+  </language>
+  <language name="en_GB" translation="">
+    <setting name="Ambient Occlusion" translation="Ambient Occlusion">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Clouds Detail" translation="Cloud Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Foliage Smoothing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Enabled" translation="Enabled" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Hardware Anti-aliasing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Object Detail" translation="Object Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="Post-process Anti-aliasing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Post-process Quality" translation="Post-process Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Shadow Detail" translation="Shadow Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Terrain Detail" translation="Terrain Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Terrain Surface Detail">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Texture Detail" translation="Texture Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Texture Filtering" translation="Texture Filtering">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+  </language>
+  <language name="en_US" translation="">
+    <setting name="Ambient Occlusion" translation="Ambient Occlusion">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Clouds Detail" translation="Clouds Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Foliage Smoothing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Enabled" translation="Enabled" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Hardware Anti-aliasing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Object Detail" translation="Object Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="Post-process Anti-aliasing">
+      <value name="Disabled" translation="Disabled" />
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Post-process Quality" translation="Post-process Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Shadow Detail" translation="Shadow Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Terrain Detail" translation="Terrain Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Terrain Surface Detail">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Texture Detail" translation="Texture Detail">
+      <value name="Extreme" translation="Extreme" />
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+      <value name="Poor" translation="Poor" />
+    </setting>
+    <setting name="Texture Filtering" translation="Texture Filtering">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Medium" translation="Medium" />
+    </setting>
+  </language>
+  <language name="es_ES" translation="">
+    <setting name="Ambient Occlusion" translation="OclusiÃ³n ambiental">
+      <value name="Disabled" translation="Desactivada" />
+      <value name="Extreme" translation="Extrema" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="Clouds Detail" translation="Detalle de nube">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Suavizado de follaje">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="Enabled" translation="Activado" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Antialiasing de hardware">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Antialiasing de muestras de trama mÃºltiple de NVIDIA">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Object Detail" translation="Detalle del objeto">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="Antialiasing de postprocesamiento">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="Post-process Quality" translation="Calidad de posprocesamiento">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Media" />
+    </setting>
+    <setting name="Resolution" translation="ResoluciÃ³n" />
+    <setting name="Shadow Detail" translation="Detalle de sombra">
+      <value name="Extreme" translation="Extrema" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Terrain Detail" translation="Detalle del terreno">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Detalle de la superficie del terreno">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Texture Detail" translation="Detalle de textura">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Escaso" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtrado de textura">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+  </language>
+  <language name="es_MX" translation="">
+    <setting name="Ambient Occlusion" translation="OclusiÃ³n ambiental">
+      <value name="Disabled" translation="Desactivada" />
+      <value name="Extreme" translation="Extrema" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="Clouds Detail" translation="Detalle de nubes">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Suavizado del follaje">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="Enabled" translation="Activado" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Suavizado de lÃ­neas de hardware">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Suavizado de lÃ­neas muestreado por mÃºltiples tramas de NVIDIA">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Object Detail" translation="Detalle del objeto">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="Suavizado de lÃ­neas durante el posprocesamiento">
+      <value name="Disabled" translation="Desactivado" />
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+    <setting name="Post-process Quality" translation="Calidad de posprocesamiento">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baja" />
+      <value name="Medium" translation="Media" />
+    </setting>
+    <setting name="Resolution" translation="ResoluciÃ³n" />
+    <setting name="Shadow Detail" translation="Detalle de sombras">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Terrain Detail" translation="Detalle del terreno">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Detalle de superficie del terreno">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Texture Detail" translation="Detalle de las texturas">
+      <value name="Extreme" translation="Extremo" />
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+      <value name="Poor" translation="Deficiente" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtrado de textura">
+      <value name="High" translation="Alto" />
+      <value name="Low" translation="Bajo" />
+      <value name="Medium" translation="Medio" />
+    </setting>
+  </language>
+  <language name="fi_FI" translation="">
+    <setting name="Ambient Occlusion" translation="YmpÃ¤ristÃ¶n sulkeminen">
+      <value name="Disabled" translation="Poistettu kÃ¤ytÃ¶stÃ¤" />
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+    </setting>
+    <setting name="Clouds Detail" translation="Pilven yksityiskohta">
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Matala" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Display Mode" translation="NÃ¤yttÃ¶tila">
+      <value name="Full-screen" translation="KokonÃ¤yttÃ¶" />
+      <value name="Windowed" translation="Ikkuna" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="LehvÃ¤stÃ¶n tasoitus">
+      <value name="Disabled" translation="Ei kÃ¤ytÃ¶ssÃ¤" />
+      <value name="Enabled" translation="KÃ¤ytÃ¶ssÃ¤" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="Reunanpehmennyksen laitteisto-ohjaus">
+      <value name="Disabled" translation="Ei kÃ¤ytÃ¶ssÃ¤" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Matala" />
+      <value name="Medium" translation="Keskitaso" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIAn MFAA-reunanpehmennys (moniruutuinen nÃ¤ytteen reunanpehmennys)">
+      <value name="Off" translation="Pois" />
+      <value name="On" translation="PÃ¤Ã¤llÃ¤" />
+    </setting>
+    <setting name="Object Detail" translation="Kohteen yksityiskohta">
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Post-process Anti-aliasing" translation="JÃ¤lkikÃ¤sittelyreunanpehmennys">
+      <value name="Disabled" translation="Poistettu kÃ¤ytÃ¶stÃ¤" />
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+    </setting>
+    <setting name="Post-process Quality" translation="JÃ¤lkikÃ¤sittelylaatu">
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Normaali" />
+    </setting>
+    <setting name="Resolution" translation="Tarkkuus" />
+    <setting name="Shadow Detail" translation="Varjon yksityiskohta">
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Terrain Detail" translation="Maaston yksityiskohta">
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Normaali" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Maaston pinnan yksityiskohta">
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Matala" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Texture Detail" translation="Pintakuvion yksityiskohta">
+      <value name="Extreme" translation="Ã„Ã¤rimmÃ¤inen" />
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+      <value name="Poor" translation="Huono" />
+    </setting>
+    <setting name="Texture Filtering" translation="Kuviosuodatus">
+      <value name="High" translation="Korkea" />
+      <value name="Low" translation="Alhainen" />
+      <value name="Medium" translation="Keskitaso" />
+    </setting>
+  </language>
+  <language name="fr_FR" translation="">
+    <setting name="Ambient Occlusion" translation="Occlusion ambiante">
+      <value name="Disabled" translation="DÃ©sactivÃ©e" />
+      <value name="Extreme" translation="ExtrÃªme" />
+      <value name="High" translation="Ã‰levÃ©e" />
+      <value name="Low" translation="Faible" />
+      <value name="Medium" translation="Moyen" />
+    </setting>
+    <setting name="Clouds Detail" translation="Niveau de dÃ©tail des nuages">
+      <value name="Extreme" translation="ExtrÃªme" />
+      <value name="High" translation="Ã‰levÃ©" />
+      <value name="Low" translation="Faible" />
+      <value name="Medium" translation="Moyen" />
+      <value name="Poor" translation="Faible" />
+    </setting>
+    <setting name="Display Mode" translation="Mode d'affichage">
+      <value name="Full-screen" translation="Plein Ã©cran" />
+      <value name="Windowed" translation="FenÃªtrÃ©" />
+    </setting>
+    <setting name="Foliage Smoothing" translation="Lissage du feuillage">
+      <value name="Disabled" translation="DÃ©sactivÃ©" />
+      <value name="Enabled" translation="ActivÃ©" />
+    </setting>
+    <setting name="Hardware Anti-aliasing" translation="AnticrÃ©nelage matÃ©riel">
+      <value name="Disabled" translation="DÃ©sactivÃ©" />
+      <value name="High" translation="Ã‰levÃ©" />
+      <value name="Low" translation="Faible" />
+      <value name="Medium" translation="Moyen" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Anti-crÃ©nelage Ã  Ã©chantillonnage sur plusieurs frames (MFAA)">
+      <value name="Off" translation="DÃ©sactivÃ©" />
+      <value name="On" translation="ActivÃ©" />
+    </setting>
+    <setting name="Object Detail" translation="DÃ©tail de lâ€™objet">
+      <value name="Extreme" translation="ExtrÃªme" />
+      <value name="High" translation="Ã‰levÃ©" />
+      <value name="Low" translation="Faible" />
+      <value name="Medium" translation="Moyenne"  p i e n e n n e t t y n ä       Start minimized   GUIUtil::HelpMessageBox   8 K ä y t t ä j ä r a j a p i n n a n   a s e t u k s e t       
+UI options   GUIUtil::HelpMessageBox    K u l u t u s :       Usage:   GUIUtil::HelpMessageBox   4 k o m e n t o k e h o t t e e n   a s e t u k s e t       command-line options   GUIUtil::HelpMessageBox    v e r s i o       version   GUIUtil::HelpMessageBox    % K ä y t ä       &Apply   OptionsDialog    & P e r u u t a       &Cancel   OptionsDialog   L & Y h d i s t ä   S O C K S - v ä l i t y s p a l v e l i m e n   l ä p i :       &Connect through SOCKS proxy:   OptionsDialog    & N ä y t ä       &Display   OptionsDialog    & Y l e i s e t       &Main   OptionsDialog   ^ & P i e n e n n ä   i l m a i s i n a l u e e l l e   t y ö k a l u r i v i n   s i j a s t a       ,&Minimize to the tray instead of the taskbar   OptionsDialog    & V e r k k o       &Network   OptionsDialog    & O K       &OK   OptionsDialog    & P o r t t i       &Port:   OptionsDialog   d % K ä y n n i s t ä   L i g h t n i n g - a s i a k a s o h j e l m a   k i r j a u t u e s s a s i        &Start Lightning on system login   OptionsDialog   B & Y k s i k k ö ,   j o s s a   m ä ä r ä t   n ä y t e t ä ä n :       &Unit to show amounts in:   OptionsDialog    & I k k u n a       &Window   OptionsDialog   A v a a   L i g h t n i n g - a s i a k k a a l l e   a u t o m a a t t i s e s t i   p o r t t i   r e i t i t t i m e s t ä .   T ä m ä   t o i m i i   v a i n ,   k u n   r e i t i t t i m e s i   t u k e e   U P n P : t ä   j a   s e   o n   a k t i v o i t u n a .       }Automatically open the Lightning client port on the router. This only works when your router supports UPnP and it is enabled.   OptionsDialog   ¬ K ä y n n i s t ä   L i g h t n i n g - a s i a k a s o h j e l m a   a u t o m a a t t i s e s t i   k u n   o l e t   k i r j a u t u n u t   j ä r j e s t e l m ä ä n .       =Automatically start Lightning after logging in to the system.   OptionsDialog   Ö V a l i t s e   m i t ä   y k s i k k ö ä   k ä y t e t ä ä n   e n s i s i j a i s e s t i   k ä y t t ö l i i t t y m ä s s ä   j a   v a r o j e n   s i i r r o s s a   m ä ä r i e n   n ä y t t ä m i s e e n .       ZChoose the default subdivision unit to show in the interface and when sending Lightning's.   OptionsDialog   À Y h d i s t ä   L i g h t n i n g - v e r k k o o n   S O C K S - v ä l i t y s p a l v e l i m e n   l ä v i t s e .   ( e s i m .   y h d i s t e t t ä e s s ä   T o r : n   k a u t t a ) .       ZConnect to the Lightning network through a SOCKS proxy (e.g. when connecting through Tor).   OptionsDialog   ‚ N ä y t ä   r a h a n & h a l l i n n a n   o m i n a i s u u d e t   ( V a i n   k o k e n e i l l e   k ä y t t ä j i l l e ! )       .Display coin &control features (experts only!)   OptionsDialog   Z V ä l i t y s p a l v e l i m e n   I P - o s o i t e   ( e s i m .   1 2 7 . 0 . 0 . 1 )       (IP address of the proxy (e.g. 127.0.0.1)   OptionsDialog   , P & i e n e n n ä   s u l j e t t a e s s a       M&inimize on close   OptionsDialog   N P o r t i n   u u d e l l e e n o h j a u s   k ä y t t ä e n   & U P n P : a       Map port using &UPnP   OptionsDialog  B P i e n e n n ä   i l m a i s i n a l u e e l l e   l o p e t t a m a t t a   i t s e   o h j e l m a a   s u l j e t t a e s s a .   K u n   t ä m ä   a s e t u s   o n   v a l i t t u n a ,   o h j e l m a n   v o i   s u l k e a   v a i n   v a l i t s e m a l l a   L o p e t a   o h j e l m a n   v a l i k o s t a .       ¦Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.   OptionsDialog   P M i n i m o i   p a i n o a r v o n   m e n e k k i   ( k o k e e l l i n e n )       *Minimize weight consumption (experimental)   OptionsDialog  „ V a p a a v a l i n t a i n e n   r a h a n s i i r t o p a l k k i o   k i l o t a v u a   k o h d e n   a u t t a a   v a r m i s t a m a a n   e t t ä   r a h a n s i i r t o s i   k ä s i t e l l ä ä n   n o p e a s t i .   S u u r i n   o s a   r a h a n s i i r r o i s t a   o n   a l l e   y h d e n   k i l o t a v u n .   P a l k k i o t a   0 . 0 1   s u o s i t e l l a a n .       Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.   OptionsDialog    A s e t u k s e t       Options   OptionsDialog   0 M a k s a   r a h a n s i i r t o p a l k k i o       Pay transaction &fee   OptionsDialog   J V ä l i t y s p a l v e l i m e n   p o r t t i   ( e s i m .   9 0 5 0 )       Port of the proxy (e.g. 9050)   OptionsDialog    P r o x y n   & I P :       
+Proxy &IP:   OptionsDialog    V a r a t t u n a       Reserve   OptionsDialog   ² V a r a t t u   m ä ä r ä   e i   v a a d i   o s a k k u u t t a   j o n k a   v u o k s i   s e   o n   m a h d o l l i s t a   k ä y t t ä ä   m i l l o i n   t a h a n s a .       WReserved amount does not participate in staking and is therefore spendable at any time.   OptionsDialog    S O C K S   & V e r s i o :       SOCKS &Version:   OptionsDialog   P V ä l i t y s p a l v e l i m e n   S O C K S - v e r s i o   ( e s i m .   5 )       #SOCKS version of the proxy (e.g. 5)   OptionsDialog   € N ä y t ä   a i n o a s t a a n   i l m a i s i n a l u e e l l a   i k k u n a n   p i e n e n t ä m i s e n   j ä l k e e n .       2Show only a tray icon after minimizing the window.   OptionsDialog   Z S y ö t e t t y   v ä l i t y s p a l v e l m e n   o s o i t e   o n   e p ä k e l p o .       &The supplied proxy address is invalid.   OptionsDialog  
+ K ä y t t ö l i i t t y m ä n   k i e l i   v o i d a a n   v a l i t a   t ä s t ä .   T ä m ä   a s e t u s   t u l e e   v o i m a a n   v a s t a   L i g h t n i n g - a s i a k a s o h j e l m a n   u u d e l l e e n k ä y n n i s t y k s e n   j ä l k e e n .       fThe user interface language can be set here. This setting will take effect after restarting Lightning.   OptionsDialog   ² T ä m ä   a s e t u s   t u l e e   v o i m a a n   v a s t a   L i g h t n i n g - a s i a k a s o h j e l m a n   u u d e l l e e n k ä y n n i s t y k s e n   j ä l k e e n .       9This setting will take effect after restarting Lightning.   OptionsDialog   z K ä y t ä   t e e m a n a   m u s t a a   u l k o a s u a   ( v a a t i i   u u d e l l e e n k ä y n n i s t y k s e n )       )Use black visual theme (requires restart)   OptionsDialog   . K ä y t t ö l i i t t y m ä n   & k i e l i :       User Interface &language:   OptionsDialog    V a r o i t u s       Warning   OptionsDialog   Ž V a l i t a a n k o   k o l i k o t   s a t t u m a n v a r a i s e s t i   v a i   p i e n i m m ä n   k o l i k o n   i ä n   m u k a a n .       EWhether to select the coin outputs randomly or with minimal coin age.   OptionsDialog   \ N ä y t ä   t a i   p i i l o t a   r a h a n h a l l i n n a n   o m i n a i s u u d e t .       -Whether to show coin control features or not.   OptionsDialog    o l e t u s       default   OptionsDialog   @ < b > V i i m e i s i m m ä t   r a h a n s i i r r o t < / b >       <b>Recent transactions</b>   OverviewPage    L o m a k e       Form   OverviewPage    E p ä k y p s ä ä :       	Immature:   OverviewPage   T L o u h i t t u   s a l d o ,   j o k a   e i   o l e   v i e l ä   k y p s y n y t       &Mined balance that has not yet matured   OverviewPage    K ä y t e t t ä v i s s ä :       
+Spendable:   OverviewPage    O s u u s :       Stake:   OverviewPage  v N ä y t e t t ä v ä t   t i e d o t   v o i v a t   o l l a   v a n h e n t u n e e t .   L o m p a k k o s i   s y n k r o n o i t u u   a u t o m a a t t i s e s t i   L i g h t n i n g - v e r k o n   k a n s s a   k u n   y h t e y s   o n   m u o d o s t e t t u ,   m u t t a   t ä t ä   p r o s e s s i a   e i   o l e   v i e t y   v i e l ä   p ä ä t ö k s e e n .       ºThe displayed information may be out of date. Your wallet automatically synchronizes with the Lightning network after a connection is established, but this process has not completed yet.   OverviewPage   ¾ O s u u t e n a   o l l e i d e n   v a r o j e n   k o k o n a i s m ä ä r ä ,   j o t k a   e i v ä t   v i e l ä   o l e   l a s k e t t u   t ä m ä n h e t k i s e e n   s a l d o o n .       UTotal of Lightning's that was staked, and do not yet count toward the current balance   OverviewPage   ¨ K a i k k i   v a h v i s t a m a t t o m a t   r a h a n s i i r r o t   y h t e e n s ä ,   j o i t a   e i   v i e l ä   o l e   l a s k e t t u   s a l d o o s i .       dTotal of transactions that have yet to be confirmed, and do not yet count toward the current balance   OverviewPage    Y h t e e n s ä :       Total:   OverviewPage     V a h v i s t a m a t o n t a :       Unconfirmed:   OverviewPage    L o m p a k k o       Wallet   OverviewPage   6 K ä y t e t t ä v i s s ä   o l e v a t   v a r a t :       Your current spendable balance   OverviewPage   : T ä m ä n h e t k i n e n   k o k o n a i s s a l d o s i       Your current total balance   OverviewPage    e i   a j a n   t a s a l l a       out of sync   OverviewPage   ( % T a l l e n n a   n i m e l l ä . . .       &Save As...   QRCodeDialog    M ä ä r ä :       Amount:   QRCodeDialog   H V i r h e   k o o d a t e s s a   l i n k k i ä   Q R - k o o d i i n .        Error encoding URI into QR Code.   QRCodeDialog    N i m i k e :       Label:   QRCodeDialog    V i e s t i :       Message:   QRCodeDialog   " P N G - k u v a t   ( * . p n g )       PNG Images (*.png)   QRCodeDialog    Q R - k o o d i - i k k u n a       QR Code Dialog   QRCodeDialog   $ P y y d ä   r a h a n s i i r t o a       Request Payment   QRCodeDialog   ’ T u l o k s e n a   l i i a n   p i t k ä   U R I ,   y r i t ä   l y h e n t ä ä   n i m i k k e e n   t a i   v i e s t i n   p i t u u t t a .       CResulting URI too long, try to reduce the text for label / message.   QRCodeDialog   " T a l l e n n a   Q R - k o o d i       Save QR Code   QRCodeDialog   R S y ö t e t t y   m ä ä r ä   o n   e p ä k e l p o i n e n ;   t a r k i s t a .       ,The entered amount is invalid, please check.   QRCodeDialog    % 1   t       %1 B   
+RPCConsole   
+ % 1   G t       %1 GB   
+RPCConsole   
+ % 1   K t       %1 KB   
+RPCConsole   
+ % 1   M t       %1 MB   
+RPCConsole    % 1   h       %1 h   
+RPCConsole    % 1   h   % 2   m       	%1 h %2 m   
+RPCConsole    % 1   m       %1 m   
+RPCConsole    & T y h j e n n ä       &Clear   
+RPCConsole    & K o n s o l i       &Console   
+RPCConsole    & T i e t o a       &Information   
+RPCConsole     & V e r k o n   l i i k e n n e       &Network Traffic   
+RPCConsole   
+ & A v a a       &Open   
+RPCConsole    & N ä y t ä       &Show   
+RPCConsole    L o h k o k e t j u       Block chain   
+RPCConsole     K o o n t i p ä i v ä m ä ä r ä       
+Build date   
+RPCConsole     T y h j e n n ä   k o n s o l i       Clear console   
+RPCConsole   ( A s i a k a s o h j e l m a n   n i m i       Client name   
+RPCConsole   , A s i a k a s o h j e l m a n   v e r s i o       Client version   
+RPCConsole   : K o m e n t o k e h o t t e e n   o m i n a i s u u d e t       Command-line options   
+RPCConsole   8 T ä m ä n h e t k i n e n   l o h k o j e n   m ä ä r ä       Current number of blocks   
+RPCConsole   $ D e b u g - l o k i t i e d o s t o       Debug log file   
+RPCConsole    S i s ä ä n :       In:   
+RPCConsole   0 V i i m e i s i m m ä n   l o h k o n   a i k a       Last block time   
+RPCConsole   0 L i g h t n i n g   -   D e b u g - i k k u n a       Lightning - Debug window   
+RPCConsole     L i g h t n i n g i n   y d i n       Lightning Core   
+RPCConsole    E i   s a a t a v i l l a       N/A   
+RPCConsole    V e r k k o       Network   
+RPCConsole   ( Y h t e y k s i e n   l u k u m ä ä r ä       Number of connections   
+RPCConsole    T e s t i v e r k o s s a       
+On testnet   
+RPCConsole    A v a a   L i g h t n i n g - a s i a k a s o h j e l m a n   d e b u g - l o k i t i e d o s t o   n y k y i s e s t ä   h a k e m i s t o s t a a n .   T ä m ä   v o i   k e s t ä ä   m u u t a m a n   s e k u n n i n   a v a t t a e s s a   s u u r i a   l o k i t i e d o s t o j a .       sOpen the Lightning debug log file from the current data directory. This can take a few seconds for large log files.   
+RPCConsole   
+ U l o s :       Out:   
+RPCConsole   Ö N ä y t ä   L i g h t n i n g - Q t : n   a v u s t u s o h j e   s a a d a k s e s i   l i s t a n   k ä y t e t t ä v i s t ä   L i g h t n i n g i n   k o m e n t o k e h o t t e e n   m ä ä r i t t e i s t ä .       ^Show the Lightning-Qt help message to get a list with possible Lightning command-line options.   
+RPCConsole    K ä y n n i s t y s a i k a       Startup time   
+RPCConsole    Y h t e e n s ä       Totals   
+RPCConsole   ¦ K i r j o i t a   < b > h e l p < / b >   n ä h d ä k s e s i   y l e i s k a t s a u k s e n   k ä y t e t t ä v i s s ä   o l e v i s t a   k o m e n n o i s t a .       7Type <b>help</b> for an overview of available commands.   
+RPCConsole   ” Y l ö s -   j a   a l a s - n u o l e t   s e l a a v a t   h i s t o r i a a   j a   < b > C t r l - L < / b >   t y h j e n t ä ä   r u u d u n .       NUse up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.   
+RPCConsole   0 K ä y t t ä ä   O p e n S S L - v e r s i o t a       Using OpenSSL version   
+RPCConsole   J T e r v e t u l o a   L i g h t n i n g i n   R P C - k o n s o l i i n .       %Welcome to the Lightning RPC console.   
+RPCConsole    j a        and    SendLightning'sDialog    ( e i   n i m e ä )       
+(no label)   SendLightning'sDialog    0       0   SendLightning'sDialog   & 1 2 3 . 4 5 6   L C   { 0 . 0 0   ? }       0.00 LC   SendLightning'sDialog    1 2 3 . 4 5 6   L C       
+123.456 LC   SendLightning'sDialog   * < b > % 1 < / b > : s t a   % 2   ( % 3 )       <b>%1</b> to %2 (%3)   SendLightning'sDialog   ( L i s ä ä   & v a s t a a n o t t a j a       Add &Recipient   SendLightning'sDialog     K u l u j e n   j ä l k e e n :       
+After Fee:   SendLightning'sDialog    M ä ä r ä :       Amount:   SendLightning'sDialog   J O l e t k o   v a r m a   e t t ä   h a l u a t   l ä h e t t ä ä   % 1 ?       !Are you sure you want to send %1?   SendLightning'sDialog    S a l d o :       Balance:   SendLightning'sDialog    T a v u a :       Bytes:   SendLightning'sDialog    V a i h t o r a h a       Change   SendLightning'sDialog   " T y h j e n n n ä   & k a i k k i       
+Clear &All   SendLightning'sDialog   : V a r o j e n h a l l i n n a n   o m i n a i s u u d e t       Coin Control Features   SendLightning'sDialog   8 H y v ä k s y   v a r o j e n   l ä h e t t ä m i n e n       Confirm send Lightning's   SendLightning'sDialog   . H y v ä k s y   l ä h e t y s t o i m i n t o       Confirm the send action   SendLightning'sDialog   > K o p i o i   r a h a n s i i r t o k u l u n   j ä l k e e n       Copy after fee   SendLightning'sDialog    K o p i o i   m ä ä r ä       Copy amount   SendLightning'sDialog    K o p i o i   t a v u j a       
+Copy bytes   SendLightning'sDialog   " K o p i o i   v a i h t o r a h a       Copy change   SendLightning'sDialog   , K o p i o i   r a h a n s i i r t o k u l u       Copy fee   SendLightning'sDialog   , K o p i o i   h e i k k o   u l o s a n t i       Copy low output   SendLightning'sDialog   & K o p i o i   p r i o r i t e e t t i       Copy priority   SendLightning'sDialog    K o p i o i   m ä ä r ä       Copy quantity   SendLightning'sDialog   ¸ S a m a   o s o i t e   t o i s t u u   u s e a m m a n   k e r r a n .   S a m a a n   o s o i t t e e s e e n   v o i   l ä h e t t ä ä   v a i n   k e r r a n   p e r   m a k s u .       ODuplicate address found, can only send to each address once per send operation.   SendLightning'sDialog   ‚ S y ö t ä   L i g h t n i n g - o s o i t e   ( e s i m .   6 8 3 4 N m 8 i K G E 1 8 C T 1 j t M 8 5 z q S 1 9 y c j z M J 2 D )       CEnter a Lightning address (e.g. 6834Nm8iKGE18CT1jtM85zqS19ycjzMJ2D)   SendLightning'sDialog  Ø V i r h e :   R a h a n s i i r t o   e v ä t t y .   T ä m ä   v o i   t a p a h t u a   k u n   j o t k u t   k o l i k o t   l o m p a k o s s a s i   o v a t   j o   k ä y t e t t y ,   k u t e n   m y ö s   t i l a n t e e s s a   j o s   k ä y t i t   w a l l e t . d a t - t i e d o s t o n   k o p i o t a   j a   r a h a t   o l i v a t   k ä y t e t t y   k o p i o s s a ,   m u t t a   e i v ä t   o l e   m e r k i t t y   k ä y t e t y i k s i   t ä s s ä .       âError: The transaction was rejected. This might happen if some of the Lightning's in your wallet were already spent, such as if you used a copy of wallet.dat and Lightning's were spent in the copy but not marked as spent here.   SendLightning'sDialog   
+ K u l u :       Fee:   SendLightning'sDialog    S y ö t t e e t . . .       	Inputs...   SendLightning'sDialog   ( E i   t a r p e e k s i   v a r o j a !       Insufficient funds!   SendLightning'sDialog     H e i k k o   u l o s a n t i :       Low Output:   SendLightning'sDialog    P r i o r i t e e t t i :       	Priority:   SendLightning'sDialog    M ä ä r ä :       	Quantity:   SendLightning'sDialog   B T y h j e n n ä   k a i k k i   r a h a n s i i r t o k e n t ä t       Remove all transaction fields   SendLightning'sDialog    L & ä h e t ä       S&end   SendLightning'sDialog   & L ä h e t ä   L i g h t n i n g e j a       Send Lightning's   SendLightning'sDialog   ^ L ä h e t ä   m o n e l l e   v a s t a a n o t t a j a l l e   s a m a n a i k a i s e s t i       #Send to multiple recipients at once   SendLightning'sDialog   T M ä ä r ä   y l i t t ä ä   k ä y t e t t ä v i s s ä   o l e v a n   s a l d o n .        The amount exceeds your balance.   SendLightning'sDialog   p M a k s e t t a v a n   s u m m a n   t u l e e   o l l a   s u u r e m p i   k u i n   0   B i t c o i n i a .       (The amount to pay must be larger than 0.   SendLightning'sDialog   t V a s t a a n o t t a j a n   o s o i t e   o n   v i r h e e l l i n e n .   T a r k i s t a   u u d e l l e e n .       3The recipient address is not valid, please recheck.   SendLightning'sDialog   € K o k o n a i s m ä ä r ä   y l i t t ä ä   s a l d o s i   k u n   % 1   m a k s u k u l u   l i s ä t ä ä n   s u m m a a n .       GThe total exceeds your balance when the %1 transaction fee is included.   SendLightning'sDialog   F V A R O I T U S :   E p ä k e l p o   L i g h t n i n g - o s o i t e       "WARNING: Invalid Lightning address   SendLightning'sDialog   J V A R O I T U S :   T u n t e m a t o n   v a i h t o r a h a o s o i t e       WARNING: unknown change address   SendLightning'sDialog   . a u t o m a a t t i s e s t i   v a l i t t u       automatically selected   SendLightning'sDialog   H e r i k s e e n   m ä ä r i t e t t y   v a i h t o r a h a o s o i t e       custom change address   SendLightning'sDialog    k e s k i k o k o i n e n       medium   SendLightning'sDialog    e i       no   SendLightning'sDialog    & N i m i k e :       &Label:   SendLightning'sEntry    M & ä ä r ä :       A&mount:   SendLightning'sEntry   
+ A l t + A       Alt+A   SendLightning'sEntry   
+ A l t + P       Alt+P   SendLightning'sEntry   : V a l i t s e   o s o i t e   o s o i t e k i r j a s t a        Choose address from address book   SendLightning'sEntry   ‚ S y ö t ä   L i g h t n i n g - o s o i t e   ( e s i m .   6 8 3 4 N m 8 i K G E 1 8 C T 1 j t M 8 5 z q S 1 9 y c j z M J 2 D )       CEnter a Lightning address (e.g. 6834Nm8iKGE18CT1jtM85zqS19ycjzMJ2D)   SendLightning'sEntry   † A n n a   n i m i k e   t ä l l e   o s o i t t e e l l e ,   j o s   h a l u a t   l i s ä t ä   s e n   o s o i t e k i r j a a s i       =Enter a label for this address to add it to your address book   SendLightning'sEntry    K a a v a k e       Form   SendLightning'sEntry   4 L i i t ä   o s o i t e   l e i k e p ö y d ä l t ä       Paste address from clipboard   SendLightning'sEntry    M a k s u n   & s a a j a :       Pay &To:   SendLightning'sEntry   2 P o i s t a   t ä m ä   v a s t a a n o t t a j a       Remove this recipient   SendLightning'sEntry   ( & A l l e k i r j o i t a   v i e s t i       &Sign Message   SignVerifyMessageDialog     & V a r m i s t a   v i e s t i       &Verify Message   SignVerifyMessageDialog   
+ A l t + A       Alt+A   SignVerifyMessageDialog   
+ A l t + P       Alt+P   SignVerifyMessageDialog   : V a l i t s e   o s o i t e   o s o i t e k i r j a s t a       'Choose an address from the address book   SignVerifyMessageDialog     T y h j e n n ä   & k a i k k i       
+Clear &All   SignVerifyMessageDialog   r K l i k k a a   " A l l e k i r j o i t a   V i e s t i   l u o d a k s e s i   a l l e k i r j o i t u k s e n         *Click "Sign Message" to generate signature   SignVerifyMessageDialog   z K o p i o i   t ä m ä n h e t k i n e n   a l l e k i r j o i t u s   j ä r j e s t e l m ä n   l e i k e p ö y d ä l l e       2Copy the current signature to the system clipboard   SignVerifyMessageDialog   : S y ö t ä   L i g h t n i n g - a l l e k i r j o i t u s       Enter Lightning signature   SignVerifyMessageDialog   ‚ S y ö t ä   L i g h t n i n g - o s o i t e   ( e s i m .   6 8 3 4 N m 8 i K G E 1 8 C T 1 j t M 8 5 z q S 1 9 y c j z M J 2 D )       CEnter a Lightning address (e.g. 6834Nm8iKGE18CT1jtM85zqS19ycjzMJ2D)   SignVerifyMessageDialog   V K i r j o i t a   v i e s t i   j o n k a   h a l u a t   a l l e k i r j o i t t a a       'Enter the message you want to sign here   SignVerifyMessageDialog  À S y ö t ä   a l l e k i r j o i t t a v a   o s o i t e ,   v i e s t i   j a   a l l e k i r j o i t u s   a l l a   o l e v i i n   k e n t t i i n   v a r m i s t a a k s e s i   a l l e k i r j o i t u k s e n   a i t o u d e n .   V a r m i s t a   e t t ä   k o p i o i t   k a i k k i   k e n t ä t   t ä s m ä l l e e n   o i k e i n ,   m y ö s   r i v i n v a i h d o t ,   v ä l i l y ö n n i t ,   t a b u l a a t t o r i t ,   j n e .      Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.   SignVerifyMessageDialog   . V i e s t i   a l l e k i r j o i t e t t u .       Message signed.   SignVerifyMessageDialog   D V i e s t i n   a l l e k i r j o i t u s   e p ä o n n i s t u i .       Message signing failed.   SignVerifyMessageDialog   D V i e s t i n   v a h v i s t a m i n e n   e p ä o n n i s t u i .       Message verification failed.   SignVerifyMessageDialog   & V i e s t i   v a h v i s t e t t u .       Message verified.   SignVerifyMessageDialog   4 L i i t ä   o s o i t e   l e i k e p ö y d ä l t ä       Paste address from clipboard   SignVerifyMessageDialog   F T a r k i s t a   o s o i t e   j a   y r i t ä   u u d e l l e e n .       'Please check the address and try again.   SignVerifyMessageDialog   T T a r k i s t a   a l l e k i r j o i t u s   j a   y r i t ä   u u d e l l e e n .       )Please check the signature and try again.   SignVerifyMessageDialog   x Y k s i t y i s t ä   a v a i n t a   s y ö t e t y l l e   o s o i t t e e l l e   e i   o l e   s a a t a v i l l a .       5Private key for the entered address is not available.   SignVerifyMessageDialog   R T y h j e n n ä   k a i k k i   k e n t ä t   a l l e k i r j o i t u k s e s t a       Reset all sign message fields   SignVerifyMessageDialog   L T y h j e n n ä   k a i k k i   v a r m i s t a - v i e s t i - k e n t ä t       Reset all verify message fields   SignVerifyMessageDialog   ” A l l e k i r j o i t a   v i e s t i   v a h v i s t a a k s e s i ,   e t t ä   o m i s t a t   t ä m ä n   L i g h t n i n g - o s o i t t e e n       8Sign the message to prove you own this Lightning address   SignVerifyMessageDialog   b A l l e k i r j o i t u k s e t   -   A l l e k i r j o i t a   /   V a r m i s t a   v i e s t i       $Signatures - Sign / Verify a Message   SignVerifyMessageDialog   ¦ O s o i t e ,   j o l l a   v i e s t i   o n   a l l e k i r j o i t e t t u   ( e s i m .   6 8 3 4 N m 8 i K G E 1 8 C T 1 j t M 8 5 z q S 1 9 y c j z M J 2 D )         QThe address the message was signed with (e.g. 6834Nm8iKGE18CT1jtM85zqS19ycjzMJ2D)   SignVerifyMessageDialog   ’ O s o i t e ,   j o l l e   v i e s t i   k i r j a t a a n   ( e s i m .   6 8 3 4 N m 8 i K G E 1 8 C T 1 j t M 8 5 z q S 1 9 y c j z M J 2 D )       NThe address to sign the message with (e.g. 6834Nm8iKGE18CT1jtM85zqS19ycjzMJ2D)   SignVerifyMessageDialog   F S y ö t e t t y   o s o i t e   e i   t ä s m ä ä   a v a i m e e n .       ,The entered address does not refer to a key.   SignVerifyMessageDialog   @ S y ö t e t t y   o s o i t e   o n   v i r h e e l l i n e n .       The entered address is invalid.   SignVerifyMessageDialog   R A l l e k i r j o i t u s t a   e i   p y s t y t t y   t u l k i t s e m a a n .       #The signature could not be decoded.   SignVerifyMessageDialog   Z A l l e k i r j o i t u s   e i   t ä s m ä ä   v i e s t i n   y h t e e n v e t o o n .       /The signature did not match the message digest.   SignVerifyMessageDialog   ´ V a h v i s t a   v i e s t i   v a r m i s t a a k s e s i   e t t ä   s e   o n   a l l e k i r j o i t e t t u   k y s e i s e l l ä   L i g h t n i n g - o s o i t t e e l l a       OVerify the message to ensure it was signed with the specified Lightning address   SignVerifyMessageDialog   : L o m p a k o n   a v a a m i n e n   p e r u t t i i n .       Wallet unlock was cancelled.   SignVerifyMessageDialog  B V o i t   a l l e k i r j o i t t a a   v i e s t i t   o m a l l a   o s o i t t e e l l a s i   t o d i s t a a k s e s i   e t t ä   o m i s t a t   n e .   O l e   h u o l e l l i n e n ,   e t t e t   a l l e k i r j o i t a   m i t ä ä n   e p ä m ä ä r ä i s t ä ,   s i l l ä   p h i s h i n g - h y ö k k ä ä j ä t   v o i v a t   y r i t t ä ä   h u i j a t a   s i n u a   a l l e k i r j o i t t a m a a n   h e n k i l ö l l i s y y t e s i   h e i d ä n   h y v ä k s i .   A l l e k i r j o i t a   v a i n   s e ,     m i h i n   o l e t   s i t o u t u n u t .       ëYou can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.   SignVerifyMessageDialog    K t / s       KB/s   TrafficGraphWidget    % 1   v a h v i s t u s t a       %1 confirmations   TransactionDesc    % 1 / o f f l i n e       
+%1/offline   TransactionDesc     % 1 / v a h v i s t a m a t o n       %1/unconfirmed   TransactionDesc   0 l ä h e t e t t y   % n   n o o d i n   l ä p i   : l ä h e t e t t y   % n   s o l m u k o h d a n   l ä p i       , broadcast through %n node(s)   TransactionDesc   L ,   e i   o l e   v i e l ä   o n n i s t u n e e s t i   l ä h e t e t t y       ), has not been successfully broadcast yet   TransactionDesc   
+ M ä ä r ä       Amount   TransactionDesc    K o m m e n t t i       Comment   TransactionDesc    C r e d i t       Credit   TransactionDesc    P ä i v ä m ä ä r ä       Date   TransactionDesc   
+ D e b i t       Debit   TransactionDesc    D e b u g - t i e t o a       Debug information   TransactionDesc    L ä h e t t ä j ä       From   TransactionDesc   
+ L u o t u       	Generated   TransactionDesc  ð L u o t u j e n   k o l i k o i d e n   o n   e r ä ä n n y t t ä v ä   5 1 0   l o h k o n   a j a n   e n n e n k u i n   n i i t ä   v o i d a a n   k ä y t t ä ä .   K u n   l o i t   t ä m ä n   l o h k o n ,   s e   o l i   l ä h e t e t t y   v e r k k o o n   l o h k o k e t j u u n   l i s ä t t ä v ä k s i .   J o s   l o h k o n   s i i r t y m i n e n   k e t j u u n   e p ä o n n i s t u u ,   t i l a k s i   m u u t t u u   " e i   h y v ä k s y t t y "   j a   s i l l o n   s i t ä   e i   v o i d a   k ä y t t ä ä .   T ä m ä   v o i   t a p a h t u a   j o s k u s   j o s   t o i n e n   v e r k o n   n o o d i   l u o   l o h k o n   m u u t a m a n   s e k u n n i n   s i s ä l l ä   l u o d u s t a   l o h k o s t a s i .      iGenerated Lightning's must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.   TransactionDesc    S i s ä ä n t u l o t       Inputs   TransactionDesc    V i e s t i       Message   TransactionDesc   
+ N e t t o       
+Net amount   TransactionDesc   , A v o i n n a   v i e l ä   % n   l o h k o   2 A v o i n n a   v i e l ä   % n   l o h k o l l e       Open for %n more block(s)   TransactionDesc    A v o i n n a   % 1   a s t i       Open until %1   TransactionDesc   
+ L ä h d e       Source   TransactionDesc    T i l a       Status   TransactionDesc   
+ S a a j a       To   TransactionDesc    R a h a n s i i r t o       Transaction   TransactionDesc    S i i r t o t u n n u s       Transaction ID   TransactionDesc   $ R a h a n s i i r t o p a l k k i o       Transaction fee   TransactionDesc    t ö r m ä n n y t       
+conflicted   TransactionDesc    e p ä t o s i       false   TransactionDesc    n i m i k e       label   TransactionDesc   2 k y p s y y   % n   l o h k o n   k u l u t t u a   2 k y p s y y   % n   l o h k o n   k u l u t t u a       matures in %n more block(s)   TransactionDesc    e i   h y v ä k s y t t y       not accepted   TransactionDesc    o m a   o s o i t e       own address   TransactionDesc    t o s i       true   TransactionDesc    t u n t e m a t o n       unknown   TransactionDesc   v T ä m ä   i k k u n a   n ä y t t ä ä   y k s i t y i s k o h t a i s e t   t i e d o t   r a h a n s i i r r o s t a       9This pane shows a detailed description of the transaction   TransactionDescDialog   6 R a h a n s i i r r o n   y k s i t y i s k o h d a t       Transaction details   TransactionDescDialog    ( e i   s a a t a v i l l a )       (n/a)   TransactionTableModel    O s o i t e       Address   TransactionTableModel   
+ M ä ä r ä       Amount   TransactionTableModel   V S a l d o o n   l i s ä t t y   t a i   s i i t ä   v ä h e n n e t t y   m ä ä r ä .       (Amount removed from or added to balance.   TransactionTableModel   8 V a h v i s t e t t u   ( % 1   v a h v i s t u s t a )       Confirmed (%1 confirmations)   TransactionTableModel   j V a h v i s t e t a a n   ( % 1   % 2 : s t a   s u o s i t e l l u s t a   v a h v i s t u k s e s t a )       /Confirming (%1 of %2 recommended confirmations)   TransactionTableModel    T ö r m ä n n y t       
+Conflicted   TransactionTableModel    P ä i v ä m ä ä r ä       Date   TransactionTableModel   b R a h a n s i i r r o n   v a s t a a n o t t a m i s e n   p ä i v ä m ä ä r ä   j a   a i k a .       0Date and time that the transaction was received.   TransactionTableModel   F R a h a n s i i r r o n   k o h t e e n   B i t c o i n - o s o i t e       #Destination address of transaction.   TransactionTableModel   : G e n e r o i t u   m u t t a   e i   h y v ä k s y t t y       Generated but not accepted   TransactionTableModel   v E i   v a h v i s t e t t u   ( % 1   v a h v i s t u s t a ,   o n   s a a t a v i l l a   % 2 : n   j ä l k e e n )       7Immature (%1 confirmations, will be available after %2)   TransactionTableModel    L o u h i t t u       Mined   TransactionTableModel    O f f l i n e - t i l a       Offline   TransactionTableModel   & A v o i n n a   % n   l o h k o l l e   & A v o i n n a   % n   l o h k o l l e       Open for %n more block(s)   TransactionTableModel    A u k i   k u n n e s   % 1         Open until %1   TransactionTableModel    M a k s u   i t s e l l e s i       Payment to yourself   TransactionTableModel    V a s t a a n o t e t t u       Received from   TransactionTableModel   2 V a s t a a n o t e t t u   o s o i t t e e l l a       Received with   TransactionTableModel   
+ S a a j a       Sent to   TransactionTableModel   ° T ä t ä   l o h k o a   e i   v a s t a a n o t e t t u   m i s t ä ä n   m u u s t a   s o l m u s t a   j a   s i t ä   e i   m a h d o l l i s e s t i   h y v ä k s y t ä !       QThis block was not received by any other nodes and will probably not be accepted!   TransactionTableModel   ¤ R a h a n s i i r r o n   t i l a .   S i i r r ä   o s o i t i n   k e n t ä n   p ä ä l l e   n ä h d ä k s e s i   v a h v i s t u s t e n   l u k u m ä ä r ä .       JTransaction status. Hover over this field to show number of confirmations.   TransactionTableModel   
+ L a a t u       Type   TransactionTableModel   & R a h a n s i i r r o n   l a a t u .       Type of transaction.   TransactionTableModel    V a h v i s t a m a t o n       Unconfirmed   TransactionTableModel    O s o i t e       Address   TransactionView    K a i k k i       All   TransactionView   
+ M ä ä r ä       Amount   TransactionView   8 C o m m a   s e p a r a t e d   f i l e   ( * . c s v )       Comma separated file (*.csv)   TransactionView    V a h v i s t e t t u       	Confirmed   TransactionView    K o p i o i   o s o i t e       Copy address   TransactionView    K o p i o i   m ä ä r ä       Copy amount   TransactionView    K o p i o i   n i m i       
+Copy label   TransactionView   , K o p i o i   r a h a n s i i r r o n   I D       Copy transaction ID   TransactionView   D E i   v o i d a   k i r j o i t t a a   t i e d o s t o o n   % 1 .       Could not write to file %1.   TransactionView    A i k a       Date   TransactionView    M u o k k a a   n i m e ä       
+Edit label   TransactionView   D A n n a   e t s i t t ä v ä   o s o i t e   t a i   t u n n i s t e        Enter address or label to search   TransactionView    V i r h e   v i e t ä e s s ä       Error exporting   TransactionView   2 V i e   t i e d o t   r a h a n s i i r r o s t a       Export Transaction Data   TransactionView    I D       ID   TransactionView    N i m i       Label   TransactionView    V i i m e   k u u s s a       
+Last month   TransactionView    M i n i m i m ä ä r ä       
+Min amount   TransactionView    L o u h i t t u       Mined   TransactionView    M u u       Other   TransactionView    A l u e . . .       Range...   TransactionView   
+ A l u e :       Range:   TransactionView   2 V a s t a a n o t e t t u   o s o i t t e e l l a       Received with   TransactionView   
+ S a a j a       Sent to   TransactionView   B N ä y t ä   r a h a n s i i r r o n   y k s i t y i s k o h d a t       Show transaction details   TransactionView    T ä s s ä   k u u s s a       
+This month   TransactionView    T ä l l ä   v i i k o l l a       	This week   TransactionView    T ä n ä   v u o n n a       	This year   TransactionView    I t s e l l e s i       To yourself   TransactionView    T ä n ä ä n       Today   TransactionView   
+ L a a t u       Type   TransactionView    k e n e l l e       to   TransactionView    L ä h e t e t ä ä n . . .       
+Sending...   WalletModel   V H y v ä k s y   m e r k k i p o h j a i s e t -   j a   J S O N - R P C - k ä s k y t       )Accept command line and JSON-RPC commands   bitcoin-core   ´ H y v ä k s y   y h t e y d e t   u l k o m a a i l m a s t a   ( v a k i o a s e t u s :   1   j o s   - p r o x y   t a i   - c o n n e c t   e i   o l e   m ä ä r i t e t t y )       EAccept connections from outside (default: 1 if no -proxy or -connect)   bitcoin-core   d L i n ä ä   s o l m u   m i h i n   l i i t t y ä   p i t ä ä k s e s i   y h t e y d e n   a u k i       @Add a node to connect to and attempt to keep the connection open   bitcoin-core   x S a l l i   D N S   k y s e l y t   - a d d n o d e ,   - s e e d n o d e   j a   - c o n n e c t   y h t e y d e s s ä       6Allow DNS lookups for -addnode, -seednode and -connect   bitcoin-core   ^ S a l l i   J S O N - R P C   y h t e y d e t   t i e t y s t ä   i p - o s o i t t e e s t a       4Allow JSON-RPC connections from specified IP address   bitcoin-core   € P y y d ä   a i n a   v e r t a i s t e s i   o s o i t t e i t a   D N S - k y s e l y n   a v u l l a   ( o l e t u s :   0 )       ;Always query for peer addresses via DNS lookup (default: 0)   bitcoin-core   † V i r h e   a v a t t a e s s a   R P C - p o r t t i a   % u   k u u n n e l t a v a k s i   I P v 4 - o s o i t t e e s s a :   % s       LAn error occurred while setting up the RPC port %u for listening on IPv4: %s   bitcoin-core   È V i r h e   k o h d a t t u   m ä ä r i t e t t ä e s s ä   R P C - p o r t t i a   % u   I P v 6 - o s o i t t e e l l e ,   p a l a t a a n   t a k a i s i n   I P v 4 : n   k ä y t t ö ö n :   % s       bAn error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s   bitcoin-core   ª Y r i t e t ä ä n   p a l a u t t a a   y k s i t y i s i ä   s a l a u s a v a i m i a   k o r r u p t o i t u n e e s t a   w a l l e t . d a t - t i e d o s t o s t a       9Attempt to recover private keys from a corrupt wallet.dat   bitcoin-core   „ L i i t ä   a n n e t t u u n   o s o i t t e e s e e n .   K ä y t ä   [ h o s t ] : p o r t   m e r k i n t ä ä   I P v 6 : l l e       8Bind to given address. Use [host]:port notation for IPv6   bitcoin-core   2 L o h k o n   l u o n n i n   a s e t u k s e t :       Block creation options:   bitcoin-core   d E i   v o i d a   p ä i v i t t ä ä   l o m p a k k o a s i   v a n h e m p a a n   v e r s i o o n       Cannot downgrade wallet   bitcoin-core   \ - b i n d   o s o i t t e e n   ' % s '   s e l v i t t ä m i n e n   e p ä o n n i s t u i       "Cannot resolve -bind address: '%s'   bitcoin-core   h - e x t e r n a l i p   o s o i t t e e n   ' % s '   s e l v i t t ä m i n e n   e p ä o n n i s t u i       (Cannot resolve -externalip address: '%s'   bitcoin-core   B O l e t u s o s o i t e t t a   e i   v o i   k i r j o i t t a a       Cannot write default address   bitcoin-core   P Y h d i s t ä   v a i n   m ä ä r i t e t t y i h i n   s o l m u k o h t i i n       %Connect only to the specified node(s)   bitcoin-core   N Y h d i s t ä   S O C K S - v ä l i t y s p a l v e l i m e n   l ä v i t s e       Connect through socks proxy   bitcoin-core   ¨ Y h d i s t ä   s o l m u k o h t a a n   h a k e a k s e s i   v e r t a i s t e s i   o s o i t t e e t   j a   s e n   j ä l k e e n   k a t k a i s e   y h t e y s       <Connect to a node to retrieve peer addresses, and disconnect   bitcoin-core   – P a l j a s t a   o m a   I P - o s o i t e   ( v a k i o a s e t u s :   1   k u n   k u u n t e l e m a s s a   j a   e i   - e x t e r n a l i p )       FDiscover own IP address (default: 1 when listening and no -externalip)   bitcoin-core    L a d a t t u       Done loading   bitcoin-core   
+ V i r h e       Error   bitcoin-core   P V i r h e   l a d a t t a e s s a   b l k i n d e x . d a t - t i e d o s t o a       Error loading blkindex.dat   bitcoin-core   L V i r h e   l a d a t t a e s s a   w a l l e t . d a t - t i e d o s t o a       Error loading wallet.dat   bitcoin-core   v V i r h e   l a d a t t a e s s a   w a l l e t . d a t - t i e d o s t o a :   L o m p a k k o   v i o i t t u n u t       *Error loading wallet.dat: Wallet corrupted   bitcoin-core   Î V i r h e   l a d a t t a e s s a   w a l l e t . d a t - t i e d o s t o a :   L o m p a k k o   t a r v i t s e e   u u d e m m a n   v e r s i o n   L i g h t n i n g - a s i a k a s o h j e l m a s t a       DError loading wallet.dat: Wallet requires newer version of Lightning   bitcoin-core   ˜ V i r h e :   L o m p a k k o   a v a t t u   v a i n   o s a k k u u t t a   v a r t e n ,   r a h a n s i i r t o j a   e i   v o i d a   l u o d a .       FError: Wallet unlocked for staking only, unable to create transaction.   bitcoin-core   ¦ S u o r i t a   k o m e n t o   k u n   o l e n n a i n e n   v a r o i t u s   o n   s a a t u   ( % s   k o m e n n o s s a   k o r v a t t u   v i e s t i l l ä )       TExecute command when a relevant alert is received (%s in cmd is replaced by message)   bitcoin-core   ´ S u o r i t a   k o m e n t o   k u n   l o m p a k o n   r a h a n s i i r r o s s a   m u u t o k s i a   ( % s   k o m e n n o s s a   o n   k o r v a t t u   T x I D : l l ä )       QExecute command when a wallet transaction changes (%s in cmd is replaced by TxID)   bitcoin-core   ž S u o r i t a   k ä s k y   k u n   p a r a s   l o h k o   m u u t t u u   ( % s   c m d   o n   v a i h d e t t u   b l o c k   h a s h i n   k a n s s a )       QExecute command when the best block changes (%s in cmd is replaced by block hash)   bitcoin-core   ’ K u u n t e l u   e i   o n n i s t u n u t   m i s s ä ä n   p o r t i s s a .   K ä y t ä   - l i s t e n = 0   j o s   h a l u a t   t ä t ä .       =Failed to listen on any port. Use -listen=0 if you want this.   bitcoin-core   „ R a h a n s i i r t o p a l k k i o   k i l o t a v u a   k o h d e n   l ä h e t e t t ä v i i n   r a h a n s i i r t o i h i s i       *Fee per KB to add to transactions you send   bitcoin-core   & H a n k i   a p u a   k ä s k y l l e       Get help for a command   bitcoin-core   x K u i n k a   p e r u s t e e l l i s e s t i   l o h k o   v a h v i s t e t a a n     ( 0 - 6 ,   o l e t u s :   1 )       8How thorough the block verification is (0-6, default: 1)   bitcoin-core   ^ T u o   l o h k o j a   e r i l l i s e s t ä   b l k 0 0 0 ? . d a t - t i e d o s t o s t a       -Imports blocks from external blk000?.dat file   bitcoin-core   Œ K ä y t t ö ö n o t t o t a r k i s t u s   e p ä o n n i s t u i .   L i g h t n i n g - a s i a k a s o h j e l m a   s u l j e t a a n .       ?Initialization sanity check failed. Lightning is shutting down.   bitcoin-core   & E i   t a r p e e k s i   v a r o j a       Insufficient funds   bitcoin-core   N E p ä k e l p o   v ä l i t y s p a l v e l i m e n   o s o i t e :   ' % s '       Invalid -proxy address: '%s'   bitcoin-core   4 E p ä k e l p o   - t o r - o s o i t e :   ' % s '       Invalid -tor address: '%s'   bitcoin-core   $ V i r h e e l l i n e n   m ä ä r ä       Invalid amount   bitcoin-core   h E p ä k e l p o   m ä ä r ä   p a r a m e t r i l l e   - m i n i n p u t = < a m o u n t > :   ' % s '       +Invalid amount for -mininput=<amount>: '%s'   bitcoin-core   P - p a y t x f e e = < a m o u n t > :   ' % s '   o n   v i r h e e l l i n e n       +Invalid amount for -paytxfee=<amount>: '%s'   bitcoin-core   N E p ä k e l p o   m ä ä r ä   - r e s e r v e b a l a n c e = < a m o u n t >       +Invalid amount for -reservebalance=<amount>   bitcoin-core   $ L i g h t n i n g i n   v e r s i o       Lightning version   bitcoin-core   " L i s t a   k o m e n n o i s t a       List commands   bitcoin-core   ¤ K u u n t e l e   J S O N - R P C - y h t e y k s i ä   p o r t i s s a   < p o r t >   ( o l e t u s :   1 4 6 7 6   t a i   t e s t i v e r k k o :   2 4 6 7 6 )       LListen for JSON-RPC connections on <port> (default: 14676 or testnet: 24676)   bitcoin-core   ’ K u u n t e l e   y h t e y k s i ä   p o r t i s s a   < p o r t >   ( o l e t u s :   1 4 6 7 7   t a i   t e s t i v e r k k o :   2 4 6 7 7 )       CListen for connections on <port> (default: 14677 or testnet: 24677)   bitcoin-core   , L a d a t a a n   o s o i t t e i t a . . .       Loading addresses...   bitcoin-core   2 L a d a t a a n   l o h k o i n d e k s i ä . . .       Loading block index...   bitcoin-core   * L a d a t a a n   l o m p a k k o a . . .       Loading wallet...   bitcoin-core   f P i d ä   e n i n t ä ä n   < n >   y h t e y t t ä   v e r k k o i h i n   ( o l e t u s :   1 2 5 )       8Maintain at most <n> connections to peers (default: 125)   bitcoin-core   ¬ S u u r i n   v a s t a a n o t t o p u s k u r i   y k s i t t ä i s e l l e   y h t e y d e l l e ,   < n > * 1 0 0 0   t a v u a   ( v a k i o a s e t u s :   5 0 0 0 )       EMaximum per-connection receive buffer, <n>*1000 bytes (default: 5000)   bitcoin-core   ¤ S u u r i n   l ä h e t y s p u s k u r i   y k s i t t ä i s e l l e   y h t e y d e l l e ,   < n > * 1 0 0 0   t a v u a   ( v a k i o a s e t u s :   1 0 0 0 )       BMaximum per-connection send buffer, <n>*1000 bytes (default: 1000)   bitcoin-core   h M i n i m o i   p a i n o a r v o n   m e n e k k i   ( k o k e e l l i n e n )   ( o l e t u s :   0 )       7Minimize weight consumption (experimental) (default: 0)   bitcoin-core   Ô S e k u n t e i n a   a i k a ,   k u i n k a   k a u a n   e s t e t ä ä n   e p ä i l y t t ä v i e n   v e r t a i s t e n   u u d e l l e e n y h d i s t y s y r i t y k s e t   ( o l e t u s :   8 6 4 0 0 )       NNumber of seconds to keep misbehaving peers from reconnecting (default: 86400)   bitcoin-core   z Y h d i s t ä   v a i n   s o l m u k o h t i i n   v e r k o s s a   < n e t >   ( I P v 4 ,   I P v 6   t a i   T o r )       :Only connect to nodes in network <net> (IPv4, IPv6 or Tor)   bitcoin-core    A s e t u k s e t :       Options:   bitcoin-core   : S a l a s a n a   J S O N - R P C - y h t e y k s i l l e       !Password for JSON-RPC connections   bitcoin-core   R L i s ä ä   d e b u g - t u l o s t e i d e n   a l k u u n   a i k a l e i m a t       #Prepend debug output with timestamp   bitcoin-core   Æ P y y d ä   v e r t a i s t e s i   o s o i t t e i t a   D N S - k y s e l y n   a v u l l a   j o s   o s o i t t e i t a   o n   v ä h ä n   ( o l e t u s :   1   j o s   e i   - c o n n e c t )       YQuery for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)   bitcoin-core   R V a a d i   v a i h t o r a h a l l e   v a h v i s t u s   ( o l e t u s :   0 )       /Require a confirmations for change (default: 0)   bitcoin-core   Š S k a n n a a   u u d e l l e e n   l o h k o k e t j u   l o m p a k o n   p u u t t u v i e n   r a h a s i i r t o j e n   v u o k s i       6Rescan the block chain for missing wallet transactions   bitcoin-core   ( H a e t a a n   u u d e l l e e n . . .       Rescanning...   bitcoin-core   ^ A j a   t a u s t a l l a   d a e m o n i n a   j a   v a s t a a n o t a   k o m e n t o j a       5Run in the background as a daemon and accept commands   bitcoin-core   t S S L   a s e t u k s e t   ( k a t s o   B i t c o i n   W i k i s t ä   t a r k e m m a t   S S L   o h j e e t )       >SSL options: (see the Bitcoin Wiki for SSL setup instructions)   bitcoin-core   l V a l i t s e   S O C K S - v ä l i t y s p a l v e l i m e n   v e r s i o   ( 4 - 5 ,   o l e t u s   5 )       :Select the version of socks proxy to use (4-5, default: 5)   bitcoin-core   ^ S y ö t ä   k o m e n t o   k o h t e e s e e n   - s e r v e r   t a i   l i g h t n i n g d       %Send command to -server or lightningd   bitcoin-core   v L ä h e t ä   k ä s k y j ä   s o l m u u n   o s o i t t e e s s a   < i p >   ( o l e t u s :   1 2 7 . 0 . 0 . 1 )       :Send commands to node running on <ip> (default: 127.0.0.1)   bitcoin-core   ‚ L ä h e t ä   j ä l j i t y s / d e b u g - t i e t o   k o n s o l i i n ,   d e b u g . l o g - t i e d o s t o n   s i j a a n       :Send trace/debug info to console instead of debug.log file   bitcoin-core   B L ä h e t ä   d e b u g - t u l o s t e   k e h i t t ä j i l l e       !Send trace/debug info to debugger   bitcoin-core    L ä h e t e t ä ä n . . .       
+Sending...   bitcoin-core   l P a l v e l i m e n   s e r t i f i k a a t t i t i e d o s t o   ( o l e t u s :   s e r v e r . c e r t )       .Server certificate file (default: server.cert)   bitcoin-core   Z P a l v e l i m e n   y k s i t y i s a v a i n   ( o l e t u s :   s e r v e r . p e m )       (Server private key (default: server.pem)   bitcoin-core   v A s e t a   t i e t o k a n n a n   v ä l i m u i s t i n   k o k o   m e g a t a v u i n a   ( o l e t u s :   2 5 )       2Set database cache size in megabytes (default: 25)   bitcoin-core   ~ A s e t a   t i e t o k a n n a n   l o k i e n   m a k s i m i k o k o   m e g a t a v u i s s a   ( o l e t u s :   1 0 0 )       6Set database disk log size in megabytes (default: 100)   bitcoin-core   ^ A s e t a   a v a i n p o o l i n   k o k o   a r v o o n   < n >   ( o l e t u s :   1 0 0 )       'Set key pool size to <n> (default: 100)   bitcoin-core   d A s e t a   l o h k o n   m a k s i m i k o k o   t a v u i s s a   ( o l e t u s :   2 5 0 0 0 0 )       1Set maximum block size in bytes (default: 250000)   bitcoin-core   Ú A s e t a   s u u r i n   m a h d o l l i n e n   k o k o   k o r k e a n   p r i o r i t e e t i n / p i e n e n   s i i r t o k u l u n   r a h a n s i i r r o i l l e   t a v u i n a   ( o l e t u s :   2 7 0 0 0 )       PSet maximum size of high-priority/low-fee transactions in bytes (default: 27000)   bitcoin-core   f A s e t a n   p i e n i n   l o h k o n   k o k o   t a v u i s s a   ( v a k i o a s e t u s :   0 )       ,Set minimum block size in bytes (default: 0)   bitcoin-core   ¦ P i e n e n n ä   d e b u g . l o g   t i e d o s t o   k ä y n n i s t y k s e n   y h t e y d e s s ä   ( v a k i o a s e t u s :   1   k u n   e i   - d e b u g )       CShrink debug.log file on client startup (default: 1 when no -debug)   bitcoin-core   ^ M ä ä r i t ä   a s e t u s t i e d o s t o   ( o l e t u s :   l i g h t n i n g . c o n f )       4Specify configuration file (default: lightning.conf)   bitcoin-core   ‚ M ä ä r i t ä   y h t e y d e n   a i k a k a t a i s u   m i l l i s e k u n n e i s s a   ( v a k i o a s e t u s :   5 0 0 0 )       :Specify connection timeout in milliseconds (default: 5000)   bitcoin-core   * M ä ä r i t ä   d a t a h a k e m i s t o       Specify data directory   bitcoin-core   ` M ä ä r i t ä   p r o s e s s i t i e d o s t o   ( o l e t u s :   l i g h t n i n g . p i d )       *Specify pid file (default: lightningd.pid)   bitcoin-core   b M ä ä r i t ä   l o m p a k k o t i e d o s t o   ( d a t a h a k e m i s t o n   s i s ä l l ä )       +Specify wallet file (within data directory)   bitcoin-core   6 M ä ä r i t ä   j u l k i n e n   o s o i t t e e s i       Specify your own public address   bitcoin-core   n S y n k r o n o i   t a l l e n n u s p i s t e i d e n   k ä y t ä n n ö t   ( o l e t u s :   s t r i c t )       )Sync checkpoints policy (default: strict)   bitcoin-core  0 S y n k r o n o i   k e l l o n a i k a   m u i d e n   s o l m u k o h t i e n   k a n s s a .   P o i s t a   k ä y t ö s t ä ,   j o s   j ä r j e s t e l m ä s i   a i k a   o n   t a r k k a   e s i m .   p ä i v i t t ä ä   i t s e n s ä   N T P - p a l v e l i m e l t a .   ( o l e t u s :   1 )       hSync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)   bitcoin-core    T ä m ä   o h j e v i e s t i       This help message   bitcoin-core   à T ä m ä   o n   e s i j u l k a i s t u   t e s t i k ä ä n n ö s   -   k ä y t ä   o m a l l a   v a s t u u l l a   -   ä l ä   k ä y t ä   l o u h i n t a a n   t a i   k a u p a n k ä y n t i s o v e l l u t u k s i i n       hThis is a pre-release test build - use at your own risk - do not use for mining or merchant applications   bitcoin-core   „ K y n n y s a r v o   i r t a u t u m i s e l l e   e p ä i l y t t ä v i s t ä   v e r t a i s i s t a   ( o l e t u s :   1 0 0 )       <Threshold for disconnecting misbehaving peers (default: 100)   bitcoin-core   6 K ä y t t ä ä k s e s i   % s   v a i h t o e h t o a       To use the %s option   bitcoin-core   ª K y t k e y t y m i n e n   % s   t ä l l ä   t i e t o k o n e l l a   e i   o n n i s t u   ( k y t k e y t y m i n e n   t u l o s t i   v i r h e e n   % d ,   % s )       BUnable to bind to %s on this computer (bind returned error %d, %s)   bitcoin-core   ¨ E i   v o i t u   l i i t t ä ä   % s   t ä l l ä   t i e t o k o n e e l l a .   L i g h t n i n g - a s i a k a s o h j e l m a   o n   j o   e h k ä   p ä ä l l ä .       MUnable to bind to %s on this computer. Lightning is probably already running.   bitcoin-core   r E i   v o i t u   k i r j a t a   t a l l e n n u s p i s t e t t ä ,   v ä ä r ä   c h e c k p o i n t k e y ? 
+       0Unable to sign checkpoint, wrong checkpointkey?
+   bitcoin-core   V T u n t e m a t o n t a   - S O C K S - v e r s i o t a   p y y d e t t i i n :   % i       *Unknown -socks proxy version requested: %i   bitcoin-core   X T u n t e m a t o n   v e r k k o   - o n l y n e t   p a r a m e t r i n a :   ' % s '       +Unknown network specified in -onlynet: '%s'   bitcoin-core   P P ä i v i t ä   l o m p a k k o   u u s i m p a a n   f o r m a a t t i i n s a       Upgrade wallet to latest format   bitcoin-core    K ä y t t ö :       Usage:   bitcoin-core   l K ä y t ä   O p e n S S L - p r o t o k o l l a a   ( h t t p s )   J S O N - R P C - y h t e y k s i l l e       ,Use OpenSSL (https) for JSON-RPC connections   bitcoin-core   z K ä y t ä   U P n P : t ä   k u u n n e l t a v a n   p o r t i n   a v a a m i s e e n   ( v a k i o a s e t u s :   0 )       /Use UPnP to map the listening port (default: 0)   bitcoin-core   ž K ä y t ä   U P n P : t ä   k u u n n e l t a v a n   p o r t i n   a v a a m i s e e n   ( v a k i o a s e t u s :   1   k u n   k u u n t e l e m a s s a )       >Use UPnP to map the listening port (default: 1 when listening)   bitcoin-core   ¶ K ä y t ä   v ä l i t y s p a l v e l i n t a   s a a v u t t a a k s e s i   t o r : n   p i i l o t e t u t   p a l v e l u t   ( o l e t u s :   s a m a   k u i n   - p r o x y )       @Use proxy to reach tor hidden services (default: same as -proxy)   bitcoin-core   $ K ä y t ä   t e s t i v e r k k o a       Use the test network   bitcoin-core   F K ä y t t ä j ä t u n n u s   J S O N - R P C - y h t e y k s i l l e       !Username for JSON-RPC connections   bitcoin-core   F T a r k i s t e t a a n   t i e t o k a n n a n   e h e y t t ä . . .       Verifying database integrity...   bitcoin-core  j V A R O I T U S :   E p ä k e l p o   t a r k i s t u s p i s t e   l ö y d e t t y !   I l m o i t e t u t   v a r o j e n s i i r r o t   e i v ä t   v ä l t t ä m ä t t ä   p i d ä   p a i k k a a n s a !   S i n u n   t ä y t y y   p ä i v i t t ä ä   a s i a k a s o h j e l m a   t a i   i l m o i t t a a   k e h i t t ä j i l l e   o n g e l m a s t a .       |WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.   bitcoin-core   ˜ V A R O I T U S :   s y n k r o n o i d u n   t a l l e n n u s p i s t e e n   r i k k o m i s t a   h a v a i t t u ,   m u t t a   o h i t e t t u !       @WARNING: syncronized checkpoint violation detected, but skipped!   bitcoin-core   \ L o m p a k k o   % s   o n   d a t a h a k e m i s t o n   % s   u l k o p u o l e l l a .       ,Wallet %s resides outside data directory %s.   bitcoin-core   Ð L o m p a k k o   o n   k i r j o i t e t t a v a   u u d e l l e e n :   k ä y n n i s t ä   L i g h t n i n g - a s i a k a s o h j e l m a   u u d e l l e e n   p ä ä t t ä ä k s e s i   t o i m i n n o n       <Wallet needed to be rewritten: restart Lightning to complete   bitcoin-core   à V a r o i t u s :   - p a y t x f e e   o n   a s e t e t t u   e r i t t ä i n   k o r k e a k s i !   T ä m ä   o n   m a k s u k u l u   j o n k a   t u l e t   m a k s a m a a n   k u n   l ä h e t ä t   s i i r r o n .       hWarning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.   bitcoin-core   ö V a r o i t u s :   T a r k i s t a ,   e t t ä   t i e t o k o n e e s i   a i k a   j a   p ä i v ä m ä ä r ä   o v a t   o i k e a s s a !   J o s   k e l l o s i   o n   v ä ä r ä s s ä ,   L i g h t n i n g   e i   t o i m i   o i k e i n .       ~Warning: Please check that your computer's date and time are correct! If your clock is wrong Lightning will not work properly.   bitcoin-core   n V a r o i t u s :   T ä m ä   v e r s i o   o n   v a n h e n t u n u t ,   p ä i v i t y s   t a r p e e n !       4Warning: This version is obsolete, upgrade required!   bitcoin-core  @ V a r o i t u s :   V i r h e   l u e t t a e s s a   w a l l e t . d a t - t i e d o s t o a !   K a i k k i   a v a i m e t   l u e t t i i n   o i k e i n ,   m u t t a   r a h a n s i i r t o d a t a   t a i   o s o i t e k i r j a n   k e n t ä t   v o i v a t   o l l a   p u u t t u v a t   t a i   v ä ä r ä t .       ‡Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.   bitcoin-core  à V a r o i t u s :   w a l l e t . d a t - t i e d o s t o   o n   k o r r u p t o i t u n u t ,   d a t a   p e l a s t e t t u !   A l k u p e r ä i n e n   w a l l e t . d a t   o n   t a l l e n n e t t u   n i m e l l ä   w a l l e t . { a i k a l e i m a } . b a k   k o h t e e s e e n   % s ;   J o s   s a l d o s i   t a i   r a h a n s i i r r o t   o v a t   v ä ä r ä t ,   s i n u n   t u l e e   p a l a u t t a a   l o m p a k k o   v a r m u u s k o p i o s t a .       ¶Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.   bitcoin-core   Ä R a h a n s i i r t o j a   l u o d e s s a   j ä t ä   h u o m i o i m a t t a   s y ö t t e e t   j o i d e n   a r v o   o n   v ä h e m m ä n   k u i n   t ä m ä   ( o l e t u s :   0 . 0 1 )       SWhen creating transactions, ignore inputs with value less than this (default: 0.01)   bitcoin-core   S i n u n   t ä y t y y   a s e t t a a   r p c p a s s w o r d = < p a s s w o r d >   a s e t u s t i e d o s t o o n : 
+ % s 
+ J o s   t i e d o s t o a   e i   o l e ,   l u o   s e   s i s ä l t ä e n   o m i s t a j a n   k i r j o i t u s o i k e u d e t .       ’You must set rpcpassword=<password> in the configuration file:
+%s
+If the file does not exist, create it with owner-readable-only file permissions.   bitcoin-core   p w a l l e t . d a t   o n   k o r r u p t o i t u n u t ,   p e l a s t u s y r i t y s   e p ä o n n i s t u i       "wallet.dat corrupt, salvage failed   bitcoin-coreˆ   
